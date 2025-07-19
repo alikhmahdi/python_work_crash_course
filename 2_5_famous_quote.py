@@ -1,0 +1,1 @@
+print('Mahdi once said, "Money is never enough."')
