@@ -1,0 +1,3 @@
+In python we can use variables like integer, string, act.
+In python we can use cooperation like equal.
+In python we can use loop like for.
